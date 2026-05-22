@@ -5,7 +5,7 @@
     <strong>Software House | Tworzymy cyfrowe rozwiazania dla biznesu</strong>
     <br />
     <a href="https://www.dvbxtreme.com.pl">www.dvbxtreme.com.pl</a> ·
-    <a href="mailto:kontakt@dvbxtreme.com.pl">kontakt@dvbxtreme.com.pl</a> ·
+    <a href="mailto:support@dvbxtreme.com.pl">support@dvbxtreme.com.pl</a> ·
     <a href="https://www.facebook.com/xdev">Facebook</a> ·
     <a href="https://www.linkedin.com/company/xdev">LinkedIn</a>
   </p>
@@ -62,7 +62,7 @@ Pracujemy w Agile/Scrum z Git Flow, CI/CD, code review i monitoringiem 24/7.
 ## Kontakt
 
 - **WWW:** [www.dvbxtreme.com.pl](https://www.dvbxtreme.com.pl)
-- **Email:** [kontakt@dvbxtreme.com.pl](mailto:kontakt@dvbxtreme.com.pl)
+- **Email:** [support@dvbxtreme.com.pl](mailto:support@dvbxtreme.com.pl)
 - **Telefon:** [+48 884 516 135](tel:+48884516135)
 - **Adres:** ul. Kosciuszki 75/4, 64-700 Czarnkow
 - **KRS:** 0001097759 | **NIP:** 7632152469 | **REGON:** 528239270
